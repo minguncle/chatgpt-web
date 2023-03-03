@@ -201,3 +201,7 @@ body {
 .message_template {
   display: none;
 }
+.flex-center{
+  display: flex;
+  align-items: center;
+}
